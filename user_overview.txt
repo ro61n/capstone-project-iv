@@ -1,0 +1,29 @@
+
+USERS OVERVIEW
+_____________________________________
+Total Number of Users: 		3
+Total tasks: 				3
+_____________________________________
+PER USER INFORMATION:
+
+	User: admin
+		Total tasks assigned: 2
+		Percentage of total tasks assigned: 66.67
+		Percentage complete: 50.0
+		Percentage incomplete: 50.0
+		Percentage incomplete & overdue: 0.0
+	- - - - - - - - - - - - -
+	User: robin
+		Total tasks assigned: 0
+		Percentage of total tasks assigned: 0.0
+		Percentage complete: 0
+		Percentage incomplete: 0
+		Percentage incomplete & overdue: 0
+	- - - - - - - - - - - - -
+	User: zoe
+		Total tasks assigned: 1
+		Percentage of total tasks assigned: 33.33
+		Percentage complete: 0.0
+		Percentage incomplete: 100.0
+		Percentage incomplete & overdue: 100.0
+	- - - - - - - - - - - - -

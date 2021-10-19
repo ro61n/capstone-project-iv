@@ -1,0 +1,9 @@
+TASKS OVERVIEW
+_____________________________________
+Total tasks: 				3
+Completed tasks: 			1
+Incomplete tasks: 			2
+Incomplete and overdue: 	1
+Percentage completed: 		66.67%
+Percentage overdue: 		33.33%
+_____________________________________
